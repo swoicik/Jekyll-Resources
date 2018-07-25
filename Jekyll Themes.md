@@ -3,3 +3,5 @@
 - Documentation Theme https://github.com/tomjoht/documentation-theme-jekyll by [tomjoht](https://github.com/tomjoht)
 - Matjek https://github.com/ShawnTeoh/matjek by [ShawnTeoh](https://github.com/ShawnTeoh)
 - Simplest https://github.com/nandomoreirame/simplest by [nandomoreirame](https://github.com/nandomoreirame)
+- Jekyll Simple https://github.com/wild-flame/jekyll-simple by [wild-flame](https://github.com/wild-flame)
+
