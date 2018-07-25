@@ -4,4 +4,5 @@
 - Matjek https://github.com/ShawnTeoh/matjek by [ShawnTeoh](https://github.com/ShawnTeoh)
 - Simplest https://github.com/nandomoreirame/simplest by [nandomoreirame](https://github.com/nandomoreirame)
 - Jekyll Simple https://github.com/wild-flame/jekyll-simple by [wild-flame](https://github.com/wild-flame)
+- Mediumish https://github.com/wowthemesnet/mediumish-theme-jekyll by [WowThemesNet](https://github.com/wowthemesnet)
 
