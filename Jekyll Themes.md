@@ -8,4 +8,5 @@
 - Good Clean Read https://github.com/adueck/good-clean-read by [adueck](https://github.com/adueck)
 - Contast https://github.com/niklasbuschmann/contrast by [Niklas Buschmann](https://github.com/niklasbuschmann)
 - Duo https://github.com/chibicode/duo by [Shu Uesugi](https://github.com/chibicode)
+- Lokmont https://github.com/artemsheludko/lokmont by [Artem Sheludko](https://github.com/artemsheludko)
 
