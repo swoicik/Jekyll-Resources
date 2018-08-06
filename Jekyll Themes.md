@@ -9,4 +9,5 @@
 - Contast https://github.com/niklasbuschmann/contrast by [Niklas Buschmann](https://github.com/niklasbuschmann)
 - Duo https://github.com/chibicode/duo by [Shu Uesugi](https://github.com/chibicode)
 - Lokmont https://github.com/artemsheludko/lokmont by [Artem Sheludko](https://github.com/artemsheludko)
-
+- Dactl https://github.com/melangue/dactl by [Marcin C](https://github.com/melangue)
+- Daktilo https://github.com/kronik3r/daktilo by [Motaquillah Maddane](https://github.com/kronik3r)
