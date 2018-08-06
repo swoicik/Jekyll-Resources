@@ -13,3 +13,4 @@
 - Daktilo https://github.com/kronik3r/daktilo by [Motaquillah Maddane](https://github.com/kronik3r)
 - Poole https://github.com/poole/poole by [Poole](https://github.com/poole)
 - Krishna https://github.com/sharu725/krishna by [Sharath Kumar](https://github.com/sharu725)
+- Minimal Blog https://github.com/runningUnicorn/minimal-blog by [runningUnicorn](https://github.com/runningUnicorn)
