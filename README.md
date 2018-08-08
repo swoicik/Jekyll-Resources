@@ -36,6 +36,7 @@ Table of Contents
 - [Pixyll](https://github.com/johno/pixyll) by [John Otander](https://github.com/johno)
 - [Poole](https://github.com/poole/poole) by [Poole](https://github.com/poole)
 - [Simplest](https://github.com/nandomoreirame/simplest) by [nandomoreirame](https://github.com/nandomoreirame)
+- **[Swiss](https://github.com/broccolini/swiss) by [Diana Mounter](https://github.com/broccolini)**
 - [Textlog](https://github.com/heiswayi/textlog) by [Heiswayi Nrird](https://github.com/heiswayi)
 - [The Plain](https://github.com/heiswayi/the-plain) by [Heiswayi Nrird](https://github.com/heiswayi)
 - **[Thinkspace](https://github.com/heiswayi/thinkspace) by [Heiswayi Nrird](https://github.com/heiswayi)**
