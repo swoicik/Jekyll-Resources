@@ -20,6 +20,7 @@ Table of Contents
 - [Daktilo](https://github.com/kronik3r/daktilo) by [Motaquillah Maddane](https://github.com/kronik3r)
 - [Documentation Theme](https://github.com/tomjoht/documentation-theme-jekyll) by [tomjoht](https://github.com/tomjoht)
 - [Duo](https://github.com/chibicode/duo) by [Shu Uesugi](https://github.com/chibicode)
+- [Ed](https://github.com/minicomp/ed/) by [minicomp](https://github.com/minicomp)
 - [Good Clean Read](https://github.com/adueck/good-clean-read) by [adueck](https://github.com/adueck)
 - **[Jekyll Simple](https://github.com/wild-flame/jekyll-simple) by [wild-flame](https://github.com/wild-flame)**
 - **[Kagami](https://github.com/kamikat/jekyll-theme-kagami) by [Kamikat](https://github.com/kamikat)**
