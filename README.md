@@ -47,7 +47,8 @@ Table of Contents
 - [Kiko-Now](https://github.com/aweekj/kiko-now) by [Hanju Jo](https://github.com/aweekj), "Build a Jekyll blog in minutes, without touching the command line."
 
 ## Jekyll Plugins 
-- [Jekyll-Auth](https://github.com/benbalter/jekyll-auth) by [Ben Balter](https://github.com/benbalter), "A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization"
+- [Jekyll Auth](https://github.com/benbalter/jekyll-auth) by [Ben Balter](https://github.com/benbalter), "A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization"
 - [Jekyll Language Plugin](https://github.com/vwochnik/jekyll-language-plugin) by [Vincent Wochnik](https://github.com/vwochnik), "Jekyll 3.0-compatible multi-language plugin for posts, pages and includes"
+- [WordPress to Jekyll Exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter) by [Ben Balter](https://github.com/benbalter), "One-click WordPress plugin that converts all posts, pages, taxonomies, metadata, and settings to Markdown and YAML which can be dropped into Jekyll"
 
 ## Sites Using Jekyll
