@@ -15,8 +15,8 @@ Table of Contents
 
 ## Jekyll Themes
 - [Contast](https://github.com/niklasbuschmann/contrast) by [Niklas Buschmann](https://github.com/niklasbuschmann)
-- Dactl https://github.com/melangue/dactl by [Marcin C](https://github.com/melangue)
-- Daktilo https://github.com/kronik3r/daktilo by [Motaquillah Maddane](https://github.com/kronik3r)
+- [Dactl](https://github.com/melangue/dactl) by [Marcin C](https://github.com/melangue)
+- [Daktilo](https://github.com/kronik3r/daktilo) by [Motaquillah Maddane](https://github.com/kronik3r)
 - Documentation Theme https://github.com/tomjoht/documentation-theme-jekyll by [tomjoht](https://github.com/tomjoht)
 - Duo https://github.com/chibicode/duo by [Shu Uesugi](https://github.com/chibicode)
 - Good Clean Read https://github.com/adueck/good-clean-read by [adueck](https://github.com/adueck)
