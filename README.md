@@ -8,10 +8,10 @@ If you want to view my own work and progress with Jekyll, the repository is http
 If you have any Jekyll Resources of your own, please create an issue or pull request. Thanks. 
 
 Table of Contents
-- Jekyll Themes
-- Jekyll Tutorials
-- Jekyll Plugins
-- Sites Using Jekyll
+- [Jekyll Themes](https://github.com/swoicik/Jekyll-Resources/blob/master/README.md#jekyll-themes)
+- [Jekyll Tutorials](https://github.com/swoicik/Jekyll-Resources#jekyll-tutorials)
+- [Jekyll Plugins](https://github.com/swoicik/Jekyll-Resources#jekyll-plugins)
+- [Sites Using Jekyll](https://github.com/swoicik/Jekyll-Resources#sites-using-jekyll)
 
 ## Jekyll Themes
 - [Contast](https://github.com/niklasbuschmann/contrast) by [Niklas Buschmann](https://github.com/niklasbuschmann)
