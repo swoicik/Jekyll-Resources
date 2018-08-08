@@ -46,5 +46,6 @@ Table of Contents
 
 ## Jekyll Plugins 
 - [Jekyll-Auth](https://github.com/benbalter/jekyll-auth) by [Ben Balter](https://github.com/benbalter), "A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization"
+- [Jekyll Language Plugin](https://github.com/vwochnik/jekyll-language-plugin) by [Vincent Wochnik](https://github.com/vwochnik), "Jekyll 3.0-compatible multi-language plugin for posts, pages and includes"
 
 ## Sites Using Jekyll
