@@ -35,6 +35,8 @@ Table of Contents
 - [Poole](https://github.com/poole/poole) by [Poole](https://github.com/poole)
 - [Simplest](https://github.com/nandomoreirame/simplest) by [nandomoreirame](https://github.com/nandomoreirame)
 - [Textlog](https://github.com/heiswayi/textlog) by [Heiswayi Nrird](https://github.com/heiswayi)
+- [The Plain](https://github.com/heiswayi/the-plain) by [Heiswayi Nrird](https://github.com/heiswayi)
+- **[Thinkspace](https://github.com/heiswayi/thinkspace) by [Heiswayi Nrird](https://github.com/heiswayi)**
 
 ## Jekyll Tutorials
 - [Kiko-Now](https://github.com/aweekj/kiko-now) by [Hanju Jo](https://github.com/aweekj), "Build a Jekyll blog in minutes, without touching the command line."
