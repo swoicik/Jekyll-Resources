@@ -34,6 +34,7 @@ Table of Contents
 - Simplest https://github.com/nandomoreirame/simplest by [nandomoreirame](https://github.com/nandomoreirame)
 
 ## Jekyll Tutorials
+- [Kiko-Now](https://github.com/aweekj/kiko-now) by [Hanju Jo](https://github.com/aweekj), "Build a Jekyll blog in minutes, without touching the command line."
 
 ## Jekyll Plugins 
 - [Jekyll-Auth](https://github.com/benbalter/jekyll-auth) by [Ben Balter](https://github.com/benbalter), "A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization"
