@@ -38,6 +38,7 @@ Table of Contents
 - [Textlog](https://github.com/heiswayi/textlog) by [Heiswayi Nrird](https://github.com/heiswayi)
 - [The Plain](https://github.com/heiswayi/the-plain) by [Heiswayi Nrird](https://github.com/heiswayi)
 - **[Thinkspace](https://github.com/heiswayi/thinkspace) by [Heiswayi Nrird](https://github.com/heiswayi)**
+- **[White Paper](https://github.com/vinitkumar/white-paper) by [Vinit Kumar](https://github.com/vinitkumar)**
 
 ## Jekyll Tutorials
 - [Kiko-Now](https://github.com/aweekj/kiko-now) by [Hanju Jo](https://github.com/aweekj), "Build a Jekyll blog in minutes, without touching the command line."
