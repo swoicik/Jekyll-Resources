@@ -52,3 +52,4 @@ Table of Contents
 - [WordPress to Jekyll Exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter) by [Ben Balter](https://github.com/benbalter), "One-click WordPress plugin that converts all posts, pages, taxonomies, metadata, and settings to Markdown and YAML which can be dropped into Jekyll"
 
 ## Sites Using Jekyll
+- Ben Balter https://ben.balter.com/
