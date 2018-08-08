@@ -22,6 +22,7 @@ Table of Contents
 - [Duo](https://github.com/chibicode/duo) by [Shu Uesugi](https://github.com/chibicode)
 - [Ed](https://github.com/minicomp/ed/) by [minicomp](https://github.com/minicomp)
 - [Good Clean Read](https://github.com/adueck/good-clean-read) by [adueck](https://github.com/adueck)
+- [JBlog](https://github.com/alperenbozkurt/JBlog) by [Alperen Bozkurt](https://github.com/alperenbozkurt)
 - **[Jekyll Simple](https://github.com/wild-flame/jekyll-simple) by [wild-flame](https://github.com/wild-flame)**
 - **[Kagami](https://github.com/kamikat/jekyll-theme-kagami) by [Kamikat](https://github.com/kamikat)**
 - [Kasper](https://github.com/rosario/kasper) by [Rosario Rascuna](https://github.com/rosario)
