@@ -14,7 +14,7 @@ Table of Contents
 - Sites Using Jekyll
 
 ## Jekyll Themes
-- **[Contast](https://github.com/niklasbuschmann/contrast)** by [Niklas Buschmann](https://github.com/niklasbuschmann)
+- [Contast](https://github.com/niklasbuschmann/contrast) by [Niklas Buschmann](https://github.com/niklasbuschmann)
 - Dactl https://github.com/melangue/dactl by [Marcin C](https://github.com/melangue)
 - Daktilo https://github.com/kronik3r/daktilo by [Motaquillah Maddane](https://github.com/kronik3r)
 - Documentation Theme https://github.com/tomjoht/documentation-theme-jekyll by [tomjoht](https://github.com/tomjoht)
@@ -36,6 +36,6 @@ Table of Contents
 ## Jekyll Tutorials
 
 ## Jekyll Plugins 
-- **Jekyll Auth** https://github.com/benbalter/jekyll-auth by [Ben Balter](https://github.com/benbalter), "A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization"
+- [Jekyll-Auth](https://github.com/benbalter/jekyll-auth) by [Ben Balter](https://github.com/benbalter), "A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization"
 
 ## Sites Using Jekyll
