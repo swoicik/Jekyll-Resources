@@ -35,6 +35,7 @@ Table of Contents
 - [Lanyon](https://github.com/poole/lanyon) by [Poole](https://github.com/poole)
 - [Lokmont](https://github.com/artemsheludko/lokmont) by [Artem Sheludko](https://github.com/artemsheludko)
 - [Matjek](https://github.com/ShawnTeoh/matjek) by [ShawnTeoh](https://github.com/ShawnTeoh)
+- [Mediator](https://github.com/dirkfabisch/mediator) by [Dirk Fabisch](https://github.com/dirkfabisch)
 - [Mediumish](https://github.com/wowthemesnet/mediumish-theme-jekyll) by [WowThemesNet](https://github.com/wowthemesnet)
 - [Minimal Blog](https://github.com/runningUnicorn/minimal-blog) by [runningUnicorn](https://github.com/runningUnicorn)
 - [Pixyll](https://github.com/johno/pixyll) by [John Otander](https://github.com/johno)
