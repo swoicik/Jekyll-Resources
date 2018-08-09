@@ -17,6 +17,7 @@ Table of Contents
 - [Athena](https://github.com/broccolini/athena) by [Diana Mounter](https://github.com/broccolini)
 - [Autm-rb](https://github.com/kirqe/autm-rb) by [Kirill B.](https://github.com/kirqu)
 - [Contrast](https://github.com/niklasbuschmann/contrast) by [Niklas Buschmann](https://github.com/niklasbuschmann)
+- [CV Crafter](https://github.com/streetturtle/jekyll-cv-crafter) by [streetturtle](https://github.com/streetturtle)
 - [Dactl](https://github.com/melangue/dactl) by [Marcin C](https://github.com/melangue)
 - [Daktilo](https://github.com/kronik3r/daktilo) by [Motaquillah Maddane](https://github.com/kronik3r)
 - [Documentation Theme](https://github.com/tomjoht/documentation-theme-jekyll) by [tomjoht](https://github.com/tomjoht)
