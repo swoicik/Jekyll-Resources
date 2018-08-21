@@ -32,6 +32,7 @@ Table of Contents
 - [Kasper](https://github.com/rosario/kasper) by [Rosario Rascuna](https://github.com/rosario)
 - [Krishna](https://github.com/sharu725/krishna) by [Sharath Kumar](https://github.com/sharu725)
 - [Lagom](https://github.com/swanson/lagom) by [Matt Swanson](https://github.com/swanson)
+- **[Lagrange](https://github.com/LeNPaul/Lagrange) by [Paul Le](https://github.com/LeNPaul)**
 - [Lanyon](https://github.com/poole/lanyon) by [Poole](https://github.com/poole)
 - [Lokmont](https://github.com/artemsheludko/lokmont) by [Artem Sheludko](https://github.com/artemsheludko)
 - [Matjek](https://github.com/ShawnTeoh/matjek) by [ShawnTeoh](https://github.com/ShawnTeoh)
