@@ -27,6 +27,7 @@ Table of Contents
 - [Jasper2](https://github.com/jekyller/jasper2) by [Jekyller](https://github.com/jekyller)
 - [JBlog](https://github.com/alperenbozkurt/JBlog) by [Alperen Bozkurt](https://github.com/alperenbozkurt)
 - [Jekyll Cayman](https://github.com/pietromenna/jekyll-cayman-theme)[Pietro Menna](https://github.com/pietromenna)
+- [Jekyll Material](https://github.com/jameshamann/jekyll-material-theme) by [James Hamann](https://github.com/jameshamann)
 - **[Jekyll Simple](https://github.com/wild-flame/jekyll-simple) by [wild-flame](https://github.com/wild-flame)**
 - **[Kagami](https://github.com/kamikat/jekyll-theme-kagami) by [Kamikat](https://github.com/kamikat)**
 - [Kasper](https://github.com/rosario/kasper) by [Rosario Rascuna](https://github.com/rosario)
