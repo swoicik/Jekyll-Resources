@@ -38,6 +38,7 @@ Table of Contents
 - [Matjek](https://github.com/ShawnTeoh/matjek) by [ShawnTeoh](https://github.com/ShawnTeoh)
 - [Mediator](https://github.com/dirkfabisch/mediator) by [Dirk Fabisch](https://github.com/dirkfabisch)
 - [Mediumish](https://github.com/wowthemesnet/mediumish-theme-jekyll) by [WowThemesNet](https://github.com/wowthemesnet)
+- [Millennial](https://github.com/LeNPaul/Millennial) by [Paul Le](https://github.com/LeNPaul)**
 - [Minimal Blog](https://github.com/runningUnicorn/minimal-blog) by [runningUnicorn](https://github.com/runningUnicorn)
 - [Pixyll](https://github.com/johno/pixyll) by [John Otander](https://github.com/johno)
 - [Poole](https://github.com/poole/poole) by [Poole](https://github.com/poole)
