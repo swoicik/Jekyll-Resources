@@ -43,6 +43,7 @@ Table of Contents
 - [Minimal Blog](https://github.com/runningUnicorn/minimal-blog) by [runningUnicorn](https://github.com/runningUnicorn)
 - [Pixyll](https://github.com/johno/pixyll) by [John Otander](https://github.com/johno)
 - [Poole](https://github.com/poole/poole) by [Poole](https://github.com/poole)
+- [Portfolio Kami](https://github.com/Bloc/portfolio-kami) by [Bloc](https://github.com/Bloc)
 - [Simplest](https://github.com/nandomoreirame/simplest) by [nandomoreirame](https://github.com/nandomoreirame)
 - [Sustain](https://github.com/jekyller/sustain) by [Jekyller](https://github.com/jekyller)
 - **[Swiss](https://github.com/broccolini/swiss) by [Diana Mounter](https://github.com/broccolini)**
