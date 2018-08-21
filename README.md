@@ -47,6 +47,7 @@ Table of Contents
 - [The Plain](https://github.com/heiswayi/the-plain) by [Heiswayi Nrird](https://github.com/heiswayi)
 - **[Thinkspace](https://github.com/heiswayi/thinkspace) by [Heiswayi Nrird](https://github.com/heiswayi)**
 - [TeXt](https://github.com/kitian616/jekyll-TeXt-theme) by [Tian Qi](https://github.com/kitian616)
+- **[Type on Strap](https://github.com/Sylhare/Type-on-Strap) by [Sylhare](https://github.com/Sylhare)**
 - [Vitae](https://github.com/jekyller/vitae) by [Jekyller](https://github.com/jekyller)
 - **[White Paper](https://github.com/vinitkumar/white-paper) by [Vinit Kumar](https://github.com/vinitkumar)**
 
