@@ -66,3 +66,4 @@ Table of Contents
 ## Sites Using Jekyll
 - Ben Balter https://ben.balter.com/
 - Jonathan Buys https://jonathanbuys.com/
+- Eon's Swift Blog http://eon.codes/
