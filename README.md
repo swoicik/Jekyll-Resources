@@ -41,6 +41,7 @@ Table of Contents
 - [Mediumish](https://github.com/wowthemesnet/mediumish-theme-jekyll) by [WowThemesNet](https://github.com/wowthemesnet)
 - [Millennial](https://github.com/LeNPaul/Millennial) by [Paul Le](https://github.com/LeNPaul)**
 - [Minimal Blog](https://github.com/runningUnicorn/minimal-blog) by [runningUnicorn](https://github.com/runningUnicorn)
+- [Monochrome](https://github.com/dyutibarma/monochrome) by [dyutibarma](https://github.com/dyutibarma)
 - [Pixyll](https://github.com/johno/pixyll) by [John Otander](https://github.com/johno)
 - [Poole](https://github.com/poole/poole) by [Poole](https://github.com/poole)
 - [Portfolio Kami](https://github.com/Bloc/portfolio-kami) by [Bloc](https://github.com/Bloc)
