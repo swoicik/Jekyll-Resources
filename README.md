@@ -14,6 +14,7 @@ Table of Contents
 - [Sites Using Jekyll](https://github.com/swoicik/Jekyll-Resources#sites-using-jekyll)
 
 ## Jekyll Themes
+- [*folio](https://github.com/bogoli/-folio) by [Lia Bogoev](https://github.com/bogoli)
 - [Athena](https://github.com/broccolini/athena) by [Diana Mounter](https://github.com/broccolini)
 - [Autm-rb](https://github.com/kirqe/autm-rb) by [Kirill B.](https://github.com/kirqu)
 - [Contrast](https://github.com/niklasbuschmann/contrast) by [Niklas Buschmann](https://github.com/niklasbuschmann)
