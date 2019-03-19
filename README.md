@@ -20,6 +20,7 @@ Table of Contents
 - [Documentation Theme](https://github.com/tomjoht/documentation-theme-jekyll) by [tomjoht](https://github.com/tomjoht)
 - [Duo](https://github.com/chibicode/duo) by [Shu Uesugi](https://github.com/chibicode)
 - [Ed](https://github.com/minicomp/ed/) by [minicomp](https://github.com/minicomp)
+- [Fur](https://github.com/CloudCannon/fur-jekyll-template) by [CloudCannon](https://github.com/CloudCannon) - E-Commerce Theme
 - [Good Clean Read](https://github.com/adueck/good-clean-read) by [adueck](https://github.com/adueck)
 - [Jasper2](https://github.com/jekyller/jasper2) by [Jekyller](https://github.com/jekyller)
 - [JBlog](https://github.com/alperenbozkurt/JBlog) by [Alperen Bozkurt](https://github.com/alperenbozkurt)
