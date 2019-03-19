@@ -12,6 +12,7 @@ Table of Contents
 - [*folio](https://github.com/bogoli/-folio) by [Lia Bogoev](https://github.com/bogoli)
 - [Athena](https://github.com/broccolini/athena) by [Diana Mounter](https://github.com/broccolini)
 - [Autm-rb](https://github.com/kirqe/autm-rb) by [Kirill B.](https://github.com/kirqu)
+- [Brume](https://github.com/aigarsdz/brume) by [Aigars Dzerviniks](https://github.com/aigarsdz)
 - [Contrast](https://github.com/niklasbuschmann/contrast) by [Niklas Buschmann](https://github.com/niklasbuschmann)
 - [CV Crafter](https://github.com/streetturtle/jekyll-cv-crafter) by [streetturtle](https://github.com/streetturtle)
 - [Dactl](https://github.com/melangue/dactl) by [Marcin C](https://github.com/melangue)
