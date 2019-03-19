@@ -51,6 +51,7 @@ Table of Contents
 - **[Thinkspace](https://github.com/heiswayi/thinkspace) by [Heiswayi Nrird](https://github.com/heiswayi)**
 - [TeXt](https://github.com/kitian616/jekyll-TeXt-theme) by [Tian Qi](https://github.com/kitian616)
 - **[Type on Strap](https://github.com/Sylhare/Type-on-Strap) by [Sylhare](https://github.com/Sylhare)**
+- [Urban](https://github.com/midzer/urban-theme) by [midzer](https://github.com/midzer)
 - [Vitae](https://github.com/jekyller/vitae) by [Jekyller](https://github.com/jekyller)
 - **[White Paper](https://github.com/vinitkumar/white-paper) by [Vinit Kumar](https://github.com/vinitkumar)**
 - [Wing](https://github.com/nikrich/jekyll-wing-template) by [Jannik Richter](https://github.com/nikrich)
