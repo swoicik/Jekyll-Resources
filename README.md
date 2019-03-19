@@ -53,6 +53,7 @@ Table of Contents
 - **[Type on Strap](https://github.com/Sylhare/Type-on-Strap) by [Sylhare](https://github.com/Sylhare)**
 - [Vitae](https://github.com/jekyller/vitae) by [Jekyller](https://github.com/jekyller)
 - **[White Paper](https://github.com/vinitkumar/white-paper) by [Vinit Kumar](https://github.com/vinitkumar)**
+- [Wing](https://github.com/nikrich/jekyll-wing-template) by [Jannik Richter](https://github.com/nikrich)
 
 ## Jekyll Tutorials
 - [Kiko-Now](https://github.com/aweekj/kiko-now) by [Hanju Jo](https://github.com/aweekj), "Build a Jekyll blog in minutes, without touching the command line."
