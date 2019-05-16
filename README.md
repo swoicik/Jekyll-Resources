@@ -58,6 +58,7 @@ Table of Contents
 
 ## Jekyll Tutorials
 - [Kiko-Now](https://github.com/aweekj/kiko-now) by [Hanju Jo](https://github.com/aweekj), "Build a Jekyll blog in minutes, without touching the command line."
+- https://benjamintravis.com/blog/jekyll-github-pages-from-wordpress
 
 ## Jekyll Plugins 
 - [Jekyll Auth](https://github.com/benbalter/jekyll-auth) by [Ben Balter](https://github.com/benbalter), "A simple way to use GitHub OAuth to serve a protected Jekyll site to your GitHub organization"
