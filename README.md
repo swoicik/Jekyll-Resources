@@ -68,3 +68,4 @@ Table of Contents
 - Ben Balter https://ben.balter.com/
 - Jonathan Buys https://jonathanbuys.com/
 - Eon's Swift Blog http://eon.codes/
+- Ben Travis https://benjamintravis.com
